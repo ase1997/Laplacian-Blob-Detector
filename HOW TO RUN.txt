@@ -1,0 +1,13 @@
+1) To run and get results from the code, make a copy of the original images in kddo_dfmunozs_images folder or images of your choice and put them in the same location of P3_main.py
+
+2) Run P3_main.py on Spyder, Eclipse, Linux, Google Colab, or Anaconda terminal.
+
+3) Required packages:
+	- numpy
+	- matplotlib
+	- time
+
+4) To install packages, do:
+	pip install package_name	if run on Linux 
+	conda install package_name	if run on Conda
+	
