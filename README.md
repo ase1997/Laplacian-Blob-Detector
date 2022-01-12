@@ -3,7 +3,7 @@
 ## Type: Academic Group Project
 
 ## Project Description
-NCSU ECE 558 (Digital Imaging Systems) Project 2
+NCSU ECE 558 (Digital Imaging Systems) Project 3
   - Implement Laplacian blob detector for images in Python
 
 ## Dependencies:
