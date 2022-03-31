@@ -18,7 +18,7 @@ NCSU ECE 558 (Digital Imaging Systems) Project 3
   - Final report details the implementations of the functions in this project along with the results + analysis
 
 ## Authors
-Khoa Do. Derik Munoz.
+Khoa Do, Derik Munoz.
 
 ## Reference
 [1]  D. Recchia, “Scale Invariant Blob Detection,” Recchia's Portfolio. [Online]. Available: https://www.drecchia.ca/scale-invariant-blob-detection. [Accessed: 30-Nov-2021].
