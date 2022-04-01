@@ -6,7 +6,7 @@
 NCSU ECE 558 (Digital Imaging Systems) Project 3
   - Implement Laplacian blob detector for images in Python
 
-## Dependencies:
+## Dependencies
   - numpy
   - cv2
   - time
